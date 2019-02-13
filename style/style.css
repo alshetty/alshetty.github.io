@@ -1,9 +1,9 @@
 body {
     color: black;
-    margin: 0;
+    margin: 10 px;
     line-height: 1.58;
     letter-spacing: -.003em;
-    font-size: 21px;
+    font-size: 17px;
     font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
 }
 
@@ -17,14 +17,47 @@ body .info {
     text-align: right;
 }
 
+body .info .winter {
+    max-width: width 40%;
+    float: left;
+}
+
+body .info .summer {
+    max-width: width 40%;
+    float: left;
+}
+
 body .history {
     color: rgb(126, 0, 0);
     max-width: width 50%;
     text-align: left;
 }
 
+body .history .bowl {
+    max-width: width 40%;
+    float: right;
+}
+
+body .history .sisters {
+    max-width: width 40%;
+    float: right;
+}
+
 body .modern {
     color: rgb(161, 0, 0);
     max-width: width 50%;
     text-align: right;
+}
+
+body .modern .dish {
+    max-width: width 40%;
+    float: left;
+}
+body .modern .pie {
+    max-width: width 40%;
+    float: left;
+}
+body .modern .lanterns {
+    max-width: width 40%;
+    float: left;
 }
