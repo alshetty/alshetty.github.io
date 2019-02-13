@@ -9,18 +9,22 @@ body {
 
 body .about-us {
     color: rgb(49, 0, 0);
-    margin: 20 px;
 }
 
 body .info {
     color: rgb(78, 0, 0);
+    max-width: width 50%;
+    text-align: right;
 }
 
 body .history {
     color: rgb(126, 0, 0);
-    margin: 20 px;
+    max-width: width 50%;
+    text-align: left;
 }
 
 body .modern {
     color: rgb(161, 0, 0);
+    max-width: width 50%;
+    text-align: right;
 }
