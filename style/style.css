@@ -17,12 +17,12 @@ body .info {
     float: right;
 }
 
-body .info .winter {
+body .winter {
     width: 40%;
     float: left;
 }
 
-body .info .summer {
+body .summer {
     width: 40%;
     float: left;
 }
@@ -33,12 +33,12 @@ body .history {
     float: left;
 }
 
-body .history .bowl {
+body .bowl {
     width: 40%;
     float: right;
 }
 
-body .history .sisters {
+body .sisters {
     width: 40%;
     float: right;
 }
@@ -49,15 +49,15 @@ body .modern {
     float: right;
 }
 
-body .modern .dish {
+body .dish {
     width: 40%;
     float: left;
 }
-body .modern .pie {
+body .pie {
     width: 40%;
     float: left;
 }
-body .modern .lanterns {
+body .lanterns {
     width: 40%;
     float: left;
 }
