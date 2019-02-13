@@ -18,15 +18,17 @@ body .info {
 }
 
 body .winter {
-    max-width: 40%;
+    max-width: 20%;
     height: auto;
     float: left;
+    margin: 15% auto;
 }
 
 body .summer {
-    max-width: 40%;
+    max-width: 20%;
     height: auto;
     float: left;
+    margin: 15% auto;
 }
 
 body .history {
@@ -36,15 +38,17 @@ body .history {
 }
 
 body .bowl {
-    max-width: 40%;
+    max-width: 20%;
     height: auto;
     float: right;
+    margin: 15% auto;
 }
 
 body .sisters {
-    max-width: 40%;
+    max-width: 20%;
     height: auto;
     float: right;
+    margin: 15% auto;
 }
 
 body .modern {
@@ -54,17 +58,20 @@ body .modern {
 }
 
 body .dish {
-    max-width: 40%;
+    max-width: 20%;
     height: auto;
     float: left;
+    margin: 15% auto;
 }
 body .pie {
-    max-width: 40%;
+    max-width: 20%;
     height: auto;
     float: left;
+    margin: 15% auto;
 }
 body .lanterns {
-    max-width: 40%;
+    max-width: 20%;
     height: auto;
     float: left;
+    margin: 15% auto;
 }
