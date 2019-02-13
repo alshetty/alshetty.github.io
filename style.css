@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     color: black;
     margin: 0;
@@ -6,3 +7,13 @@ body {
     font-size: 21px;
     font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
 }
+=======
+body {
+    color: white;
+    margin: 0;
+    line-height: 1.58;
+    letter-spacing: -.003em;
+    font-size: 21px;
+    font-family: medium-content-serif-font,Georgia,Cambria,"Times New Roman",Times,serif;
+}
+>>>>>>> 749f47be3b5fe11f6ae6e0ff7a52308767e8efc9
