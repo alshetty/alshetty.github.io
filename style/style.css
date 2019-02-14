@@ -21,8 +21,8 @@ body .images1 {
     max-width: 20%;
     height: auto;
     float: left;
-    padding-left: 15%;
-    padding-right: 15%;
+    padding-left: 8%;
+    padding-right: 8%;
 }
 
 
@@ -36,8 +36,8 @@ body .images2 {
     max-width: 20%;
     height: auto;
     float: right;
-    padding-left: 15%;
-    padding-right: 15%;
+    padding-left: 8%;
+    padding-right: 8%;
 }
 
 body .modern {
@@ -50,6 +50,6 @@ body .images3 {
     max-width: 20%;
     height: auto;
     float: left;
-    padding-left: 15%;
-    padding-right: 15%;
+    padding-left: 8%;
+    padding-right: 8%;
 }
