@@ -23,7 +23,8 @@ body .images1 {
     float: left;
     padding-left: 8%;
     padding-right: 8%;
-    padding-bottom: 50%;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 
@@ -39,7 +40,8 @@ body .images2 {
     float: right;
     padding-left: 8%;
     padding-right: 8%;
-    padding-bottom: 50%;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 body .modern {
@@ -54,5 +56,6 @@ body .images3 {
     float: left;
     padding-left: 8%;
     padding-right: 8%;
-    padding-bottom: 50%;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
