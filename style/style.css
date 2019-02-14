@@ -24,12 +24,6 @@ body .images1 {
     padding-left: 15%;
     padding-right: 15%;
 }
-body .images1 .winter {
-    max-width: 20%
-}
-body .images1 .summer {
-    max-width: 20%
-}
 
 
 body .history {
@@ -46,13 +40,6 @@ body .images2 {
     padding-right: 15%;
 }
 
-body .images2 .bowl {
-    max-width: 20%
-}
-body .images2 .sisters {
-    max-width: 20%
-}
-
 body .modern {
     color: rgb(161, 0, 0);
     width: 50%;
@@ -65,14 +52,4 @@ body .images3 {
     float: left;
     padding-left: 15%;
     padding-right: 15%;
-}
-
-body .images3 .dish {
-    max-width: 20%
-}
-body .images3 .pie {
-    max-width: 20%
-}
-body .images3 .lanterns {
-    max-width: 20%
 }
