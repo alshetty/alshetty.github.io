@@ -14,10 +14,17 @@ body .about-us {
 body .info {
     color: rgb(78, 0, 0);
     width: 50%;
-    float: right;
 }
 
-body .images1 {
+body .info .winter {
+    max-width: 20%;
+    height: auto;
+    float: left;
+    padding-left: 13%;
+    padding-right: 13%;
+    
+}
+body .info .summer {
     max-width: 20%;
     height: auto;
     float: left;
@@ -25,14 +32,20 @@ body .images1 {
     padding-right: 13%;
 }
 
-
 body .history {
     color: rgb(126, 0, 0);
     width: 50%;
-    float: left;
 }
 
-body .images2 {
+body .history .bowl {
+    max-width: 20%;
+    height: auto;
+    float: right;
+    padding-left: 13%;
+    padding-right: 13%;
+}
+
+body .history .sisters {
     max-width: 20%;
     height: auto;
     float: right;
@@ -43,10 +56,25 @@ body .images2 {
 body .modern {
     color: rgb(161, 0, 0);
     width: 50%;
-    float: right;
 }
 
-body .images3 {
+body .modern .dish {
+    max-width: 20%;
+    height: auto;
+    float: left;
+    padding-left: 13%;
+    padding-right: 13%;
+}
+
+body .modern .pie {
+    max-width: 20%;
+    height: auto;
+    float: left;
+    padding-left: 13%;
+    padding-right: 13%;
+}
+
+body .modern .lanterns {
     max-width: 20%;
     height: auto;
     float: left;
