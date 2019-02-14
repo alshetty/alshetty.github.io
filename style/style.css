@@ -21,14 +21,20 @@ body .winter {
     max-width: 20%;
     height: auto;
     float: left;
-    padding: 15%;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 
 body .summer {
     max-width: 20%;
     height: auto;
     float: left;
-    padding: 15%;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 
 body .history {
@@ -41,14 +47,20 @@ body .bowl {
     max-width: 20%;
     height: auto;
     float: right;
-    padding: 15%;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 
 body .sisters {
     max-width: 20%;
     height: auto;
     float: right;
-    padding: 15%;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 
 body .modern {
@@ -61,17 +73,26 @@ body .dish {
     max-width: 20%;
     height: auto;
     float: left;
-    padding: 15%;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 body .pie {
     max-width: 20%;
     height: auto;
     float: left;
-    padding: 15%;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 body .lanterns {
     max-width: 20%;
     height: auto;
     float: left;
-    padding: 15%;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
