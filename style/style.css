@@ -13,7 +13,6 @@ body .about-us {
 
 body .info {
     color: rgb(78, 0, 0);
-    width: 50%;
 }
 
 body .info .winter {
@@ -34,7 +33,6 @@ body .info .summer {
 
 body .history {
     color: rgb(126, 0, 0);
-    width: 50%;
 }
 
 body .history .bowl {
@@ -55,7 +53,6 @@ body .history .sisters {
 
 body .modern {
     color: rgb(161, 0, 0);
-    width: 50%;
 }
 
 body .modern .dish {
