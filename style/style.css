@@ -21,14 +21,14 @@ body .winter {
     max-width: 20%;
     height: auto;
     float: left;
-    margin: 15% auto;
+    padding: 15%;
 }
 
 body .summer {
     max-width: 20%;
     height: auto;
     float: left;
-    margin: 15% auto;
+    padding: 15%;
 }
 
 body .history {
@@ -41,14 +41,14 @@ body .bowl {
     max-width: 20%;
     height: auto;
     float: right;
-    margin: 15% auto;
+    padding: 15%;
 }
 
 body .sisters {
     max-width: 20%;
     height: auto;
     float: right;
-    margin: 15% auto;
+    padding: 15%;
 }
 
 body .modern {
@@ -61,17 +61,17 @@ body .dish {
     max-width: 20%;
     height: auto;
     float: left;
-    margin: 15% auto;
+    padding: 15%;
 }
 body .pie {
     max-width: 20%;
     height: auto;
     float: left;
-    margin: 15% auto;
+    padding: 15%;
 }
 body .lanterns {
     max-width: 20%;
     height: auto;
     float: left;
-    margin: 15% auto;
+    padding: 15%;
 }
