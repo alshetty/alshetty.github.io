@@ -17,25 +17,14 @@ body .info {
     float: right;
 }
 
-body .winter {
+body .images1 {
     max-width: 20%;
     height: auto;
     float: left;
     padding-left: 15%;
     padding-right: 15%;
-    padding-top: 2%;
-    padding-bottom: 2%;
 }
 
-body .summer {
-    max-width: 20%;
-    height: auto;
-    float: left;
-    padding-left: 15%;
-    padding-right: 15%;
-    padding-top: 2%;
-    padding-bottom: 2%;
-}
 
 body .history {
     color: rgb(126, 0, 0);
@@ -43,24 +32,12 @@ body .history {
     float: left;
 }
 
-body .bowl {
+body .images2 {
     max-width: 20%;
     height: auto;
     float: right;
     padding-left: 15%;
     padding-right: 15%;
-    padding-top: 2%;
-    padding-bottom: 2%;
-}
-
-body .sisters {
-    max-width: 20%;
-    height: auto;
-    float: right;
-    padding-left: 15%;
-    padding-right: 15%;
-    padding-top: 2%;
-    padding-bottom: 2%;
 }
 
 body .modern {
@@ -69,30 +46,10 @@ body .modern {
     float: right;
 }
 
-body .dish {
+body .images3 {
     max-width: 20%;
     height: auto;
     float: left;
     padding-left: 15%;
     padding-right: 15%;
-    padding-top: 2%;
-    padding-bottom: 2%;
-}
-body .pie {
-    max-width: 20%;
-    height: auto;
-    float: left;
-    padding-left: 15%;
-    padding-right: 15%;
-    padding-top: 2%;
-    padding-bottom: 2%;
-}
-body .lanterns {
-    max-width: 20%;
-    height: auto;
-    float: left;
-    padding-left: 15%;
-    padding-right: 15%;
-    padding-top: 2%;
-    padding-bottom: 2%;
 }
